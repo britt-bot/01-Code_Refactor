@@ -12,3 +12,5 @@ Credits:
 *followed class listings
 https://github.com/pkriengsiri/horiseon-code-refactor/blob/main/index.html
 https://github.com/pkriengsiri/horiseon-code-refactor/blob/main/assets/css/style.css
+
+Classmates, TA and Virtual TAs we all also HUGE helps!
