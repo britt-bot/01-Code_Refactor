@@ -41,8 +41,9 @@ Third Party Assets:
 
 [@pkriengsiri - GitHub](https://github.com/pkriengsiri)
 *followed class listings and got a general/clearer idea of what the assignment was asking for.
-    [index](https://github.com/pkriengsiri/horiseon-code-refactor/blob/main/index.html)
-    [css](https://github.com/pkriengsiri/horiseon-code-refactor/blob/main/assets/css/style.css)
+[index](https://github.com/pkriengsiri/horiseon-code-refactor/blob/main/index.html)
+
+[css](https://github.com/pkriengsiri/horiseon-code-refactor/blob/main/assets/css/style.css)
 
 I also looked through several other GitHubs and other pages for ideas and explanations, but didn't really use any of that info. 
 
