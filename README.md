@@ -40,10 +40,9 @@ A portfolio is a gathering of completed and in progress works, that are used to 
 Third Party Assets:
 
 [@pkriengsiri - GitHub](https://github.com/pkriengsiri)
-*followed class listings and got a general/clearer idea of what the assignment was asking for.
 [index](https://github.com/pkriengsiri/horiseon-code-refactor/blob/main/index.html)
-
 [css](https://github.com/pkriengsiri/horiseon-code-refactor/blob/main/assets/css/style.css)
+*followed class listings and got a general/clearer idea of what the assignment was asking for.
 
 I also looked through several other GitHubs and other pages for ideas and explanations, but didn't really use any of that info. 
 
