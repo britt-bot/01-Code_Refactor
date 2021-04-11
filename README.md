@@ -21,20 +21,18 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Homework 08 - Updated Portfolio Repo](https://github.com/britt-bot/08-updated_portfolio)
+[Homework 01 - Code Refactor Repo](https://github.com/britt-bot/01-Code_Refactor)
 
-[Homework 08 - Updated Portfolio Deployed](https://britt-bot.github.io/08-Updated_Portfolio/)
+[Homework 01 - Code Refactor Deployed](https://britt-bot.github.io/01-Code_Refactor/)
 
 
 ## Usage 
 
 A portfolio is a gathering of completed and in progress works, that are used to showcase a skilled person's end results and/or work styles.
 
-![Top of Page](https://user-images.githubusercontent.com/77466708/113634919-43ceee00-9635-11eb-9d05-1905f4e8e8b8.png)
+![Screenshot](https://user-images.githubusercontent.com/77466708/114288557-ac9fd700-9a36-11eb-8379-b5bb023b20da.png)
 
-![Middle of Page](https://user-images.githubusercontent.com/77466708/113634926-47627500-9635-11eb-9fb4-4d98140a8d1d.png)
-
-![Bottom of Page](https://user-images.githubusercontent.com/77466708/113634933-4893a200-9635-11eb-99fe-586f494cc153.png)
+![Screenshot1](https://user-images.githubusercontent.com/77466708/114288558-ac9fd700-9a36-11eb-8488-123223c48104.png)
 
 ## Credits
 
