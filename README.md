@@ -23,7 +23,7 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 [Homework 01 - Code Refactor Repo](https://github.com/britt-bot/01-Code_Refactor)
 
-[Homework 01 - Code Refactor Deployed](https://britt-bot.github.io/01-Code_Refactor/)
+[Homework 01 - Code Refactor Deploy](https://britt-bot.github.io/01-Code_Refactor/)
 
 
 ## Usage 
@@ -44,7 +44,7 @@ Third Party Assets:
 [css](https://github.com/pkriengsiri/horiseon-code-refactor/blob/main/assets/css/style.css)
 *followed class listings and got a general/clearer idea of what the assignment was asking for.
 
-I also looked through several other GitHubs and other pages for ideas and explanations, but didn't really use any of that info. 
+I also looked through several other GitHubs and other pages for ideas and explanations. 
 
 Classmates, TA and Virtual TAs were also all HUGE help!
 
