@@ -1,4 +1,4 @@
-# 01-code_refactor
+# 01-Code_Refactor
 ## Description 
 
 Horiseon, a Social Solution Services company requested their website to be updated to meet accessability compliance requirements. 
