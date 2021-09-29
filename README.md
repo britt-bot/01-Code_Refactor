@@ -21,9 +21,9 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Homework 01 - Code Refactor Repo](https://github.com/britt-bot/01-Code_Refactor)
+[Code Refactor Repo](https://github.com/britt-bot/01-Code_Refactor)
 
-[Homework 01 - Code Refactor Deploy](https://britt-bot.github.io/01-Code_Refactor/)
+[Code Refactor Deploy](https://britt-bot.github.io/01-Code_Refactor/)
 
 
 ## Usage 
