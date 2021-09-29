@@ -28,7 +28,7 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 ## Usage 
 
-A portfolio is a gathering of completed and in progress works, that are used to showcase a skilled person's end results and/or work styles.
+A website revamp for Horiseon, a Social Solution Services company, that requested their website be updated to meet accessability compliance requirements.
 
 ![Screenshot](https://user-images.githubusercontent.com/77466708/114288558-ac9fd700-9a36-11eb-8488-123223c48104.png)
 
